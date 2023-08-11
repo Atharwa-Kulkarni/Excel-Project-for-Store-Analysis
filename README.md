@@ -1,6 +1,8 @@
 # Excel-Project-for-Store-Analysis
 This is a portfolio project for learning Excel, where I have analyzed an E-Commerce Store Data
-Link to Data:- @
+Data File:- Store Data.xlsx
+
+Data Analysis:- Store Data Analysis.xlsx
 
 The Store owner wants to create an Annual Sales Report for the FY 2022, to attract new Investors. Also, they want to explore more options for increasing sales in the coming FY 2023.
 
@@ -33,3 +35,7 @@ Insights after the Report:-
 *Maharashtra, Karnataka, and Uttar Pradesh are the top 3 States with maximum Sale
 *Adult Age Group(Age:30-49Years) is maximum contributor to the Sales
 *Amazon, Flipkart, and Myntra channels are the maximum contributors(80%)
+
+Final Conclusion:- Target Women Customers of age group 30-49 Years living in Maharashtra, Karnataka, and Uttar Pradesh by offering them ads\offers/discount coupons available on Amazon, Flipkart, and Myntra
+
+Here is the screenshot of Data Visualization:- ![Screenshot (39)](https://github.com/Atharwa-Kulkarni/Excel-Project-for-Store-Analysis/assets/64681566/712e0229-3aba-4a36-a873-03b5aa55cec0)
