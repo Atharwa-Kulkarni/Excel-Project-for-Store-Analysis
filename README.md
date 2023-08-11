@@ -36,7 +36,8 @@ Insights after the Report:-
 *Adult Age Group(Age:30-49Years) is maximum contributor to the Sales
 *Amazon, Flipkart, and Myntra channels are the maximum contributors(80%)
 
-Final Conclusion:- Target Women Customers of age group 30-49 Years living in Maharashtra, Karnataka, and Uttar Pradesh by offering them ads\offers/discount coupons available on Amazon, Flipkart, and Myntra
+Final Conclusion:- Target Women Customers of the age group 30-49 Years living in Maharashtra, Karnataka, and Uttar Pradesh by offering them ads\offers/discount coupons available on Amazon, Flipkart, and Myntra
 
-Here is the screenshot of Data Visualization:- ![Uploading Screenshot (39).png…]()
+Here is the screenshot of Data Visualization:- ![Screenshot (39)](https://github.com/Atharwa-Kulkarni/Excel-Project-for-Store-Analysis/assets/64681566/9f922a78-8db5-4494-a362-22201289e2bb)
+
 
